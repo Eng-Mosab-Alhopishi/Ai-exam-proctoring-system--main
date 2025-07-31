@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env/
+.env.local/
+.env.development/
+.env.production/
+
+# Distribution / Installation
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Logs and Data
+*.log
+logs/
+data/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# System Files
+.DS_Store
+
+# Dependencies
+node_modules/
+bower_components/
+
+# Project Specific
+uploads/
+# Temporary Files
+temp/
+
+# Database Files
+database/student_images/
+*.sqlite3
+*.db
