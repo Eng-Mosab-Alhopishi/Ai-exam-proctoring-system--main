@@ -2,7 +2,7 @@
 
 > A graduation project built using JavaScript and React to intelligently detect and flag fraudulent activities.
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Fraud+Detection+Web+App)
+
 
 ---
 
